@@ -1,0 +1,12 @@
+The following section summarizes what HTML Semantic Elements are.
+
+Semantic Elements in HTML are tags that provide structure and meaning.
+
+Semantic Elements help developers to define the structure of a page in an easy way. Semantic
+means 'meaning' therefore Semantic Elements are elements with a meaning. A Semantic Element
+helps the developer and the browser to understand its meaning. Applying semantic elements help
+to ensure our website designs are more accessible and inclusive.
+
+There are two types of Semantic Elements:
+Semantic: The following element names clearly define their content: form, img, table.
+Non-semantic: These elements carry no inherent meaning, they don't define anything about their content: span and div.
